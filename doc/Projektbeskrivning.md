@@ -1,28 +1,25 @@
 
-# Projektnamn här
+# Smultrontips
 Projektmedlemmar: 
-[tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
+[wl222an](https://github.com/weronikalevin)
 
-*Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
 
 [Exekverbar version av projektet](http://tstjostudent.github.io/Projektet)
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
 ## Beskrivning av projektet
-*En kort och koncis beskrivning av projektet. Vad är det ni vill skapa? Varför? Hur fick ni idén?*
+*En sida med tips och länkar till andra sidor. Sidan ska vara lättläst och användarvänlig. Sidan kan tex tipsa om appar, affärer, webbsidor mm. Sidan är skriven på svenska. Tipssida, Kontaktsida, Bildgalleri med tips.*
 
 ## Tekniker
-*Vilka tekniker kommer att användas? Kommer ni att använda några ramverk? CSS-preprocessors?*
+*GitHub med Cloud9. HTML och CSS. Jag vill försöka använda Bootstrap bara för att testa hur det är att använda ett webbutvecklingsverkryg.*
 
 ## Begränsningar
-*Eventuella begränsningar i projektet. Kanske kommer viss funktionalitet att fejkas eftersom ni inte besitter kunskaper att skapa detta ännu?*
+*Eventuella formuläret kommer inte ha en mottagare*
 
 ## Förstudier
-*Eventuellt redan existerande prototyper, användarundersökningar etc. Kanske gör ni om en befintlig webbplats? Beskriv då det här.*
+*Komma på saker att tipsa om är väl det enda i sådana fall.*
 
-## *Förändra*
-*Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
 
 ## Tidsplanering
 *Länka till tidsplaneringen här, eller fäll in som en bild.*
