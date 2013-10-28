@@ -4,7 +4,7 @@ Projektmedlemmar:
 [wl222an](https://github.com/weronikalevin)
 
 
-[Exekverbar version av projektet](http://tstjostudent.github.io/Projektet)
+[Exekverbar version av projektet](http://weronikalevin.github.io/ProjektskelettHT13/)
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
@@ -22,5 +22,5 @@ Projektmedlemmar:
 
 
 ## Tidsplanering
-*Länka till tidsplaneringen här, eller fäll in som en bild.*
+*https://www.smartapp.com/gantterforgoogledrive/index.html?fileID=0BzCa5pOF1xPielBLejRSMFQ1SjQ*
 
