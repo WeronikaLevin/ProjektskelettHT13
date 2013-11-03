@@ -178,6 +178,7 @@ label{
 h1{
      color:#DC143C;
     font-size: 1.6em;
+   
     text-transform:uppercase;
     
 }
@@ -262,6 +263,10 @@ input.button{
     background-color:#990000;
     color:#FFFFCC;
 }
+ul li{
+color:#DC143C;
+margin-left:15px;
+}
 
 /**********TABLE*************
 table{
@@ -291,11 +296,12 @@ color:#FFF;
 
 }
 *************************/
-h3.icon{
-    background-image:url("pics/icon.png");
+h1.icon{
+    background-image:url("Smultron.png");
     background-repeat:no-repeat;
     background-size:100px;
-    padding-left: 50px
+    padding:50px;
+    padding-left:110px;
 }
 
 .right{
