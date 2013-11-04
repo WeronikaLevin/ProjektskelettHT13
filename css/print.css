@@ -1,0 +1,142 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+
+}
+*{
+font-family:Georgia, serif;
+color:#000;
+
+}
+p, h1, h2, h3{
+    color:#000;
+}
+
+/*************** LAYOUT **************/
+body{
+font-family:Georgia, serif;
+color:#000;
+}
+#footer, #mainNav, video{
+    display:none;
+    
+}
+#header h2{
+    color:#000;
+}
+#content h3 ul li a{
+    color:#000;
+    
+}
+
+/*****************LINKS**************/
+
+a img{
+    border:none;
+}
+
+a{
+    text-decoration:none;
+    color:#000;
+}
+a:after{
+    content:" (" attr(href) ") ";
+    font-size:smaller;
+    text-decoration:none;
+    
+}
+
+ol a:after{
+    content:" (" attr(href) ") ";
+    font-size:smaller;
+    text-decoration:none;
+    color:#000;
+    
+}
+label{
+    color:#000;
+}
+
+
+
+/**********TABLE**************/
+table{
+    color:#000;
+    background-color:#FFF;
+    margin-top:15px;
+}
+table thead{
+    color:#000;
+    background-color:#FFF;
+}
+table tfoot tr td {
+    color:#000;
+    background-color:#FFF;
+}
+
+/***********LISTS**************/
+
+ol li a{
+     color:#000;
+}
+ul li{
+    color:#000;
+}
+
+dl dt{
+     color:#000;
+}
+
+dd{
+     color:#000;
+}
+
+ol, ul, li {
+color:#000;
+
+}
+
+/***********FORM***************/
+form{
+    color:#000;
+}
+form fieldset legend{
+    color:#000;
+}
+form label{
+    color:#000;
+}
+input.button{
+    color:#000;
+}
+
+
+.right{
+margin: 2px;
+  border: 1px solid #FFF;
+  height: 75%;
+  width: 75%;
+  float: right;
+  text-align: center;
+}

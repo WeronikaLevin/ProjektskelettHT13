@@ -322,11 +322,10 @@ h1.icon{
 }
 
 .rightPerc{
-  margin: 2px;
-  border: 1px solid #FFF;
-  height: 50%;
-  width: 50%;
-  float: right;
+    width:250px;
+    margin: 2px;
+    border:1px solid #FFF;
+  float: bottom;
   text-align: center;
 }
 .top {
