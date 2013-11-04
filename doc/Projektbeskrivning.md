@@ -9,10 +9,10 @@ Projektmedlemmar:
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
 ## Beskrivning av projektet
-*En sida med tips och länkar till andra sidor. Sidan ska vara lättläst och användarvänlig. Sidan kan tex tipsa om appar, affärer, webbsidor mm. Sidan är skriven på svenska. Tipssida, Kontaktsida, Bildgalleri med tips.*
+*En sida med tips med länkar till andra sidor.  Sidan ska vara lättläst och användarvänlig. Sidan kan tex tipsa om appar, affärer, webbsidor mm. Sidan är skriven på svenska. Eventsida, Kontaktsida, Bildgalleri med tips.*
 
 ## Tekniker
-*GitHub med Cloud9. HTML och CSS. Jag vill försöka använda Bootstrap bara för att testa hur det är att använda ett webbutvecklingsverkryg.*
+*GitHub med Cloud9. HTML och CSS.*
 
 ## Begränsningar
 *Eventuella formuläret kommer inte ha en mottagare*

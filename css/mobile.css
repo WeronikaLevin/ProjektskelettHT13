@@ -152,8 +152,9 @@ footer, header, hgroup, menu, nav, section {
 
 p{
      color:#938892;
-    font-size:0.8em;
+    font-size:1em;
 }
+
 a:link{
     color:#DC143C;
     text-decoration:none;
@@ -278,34 +279,6 @@ color:#DC143C;
 margin-left:15px;
 }
 
-/**********TABLE*************
-table{
- 
-background-color:#CC3333;
-color:#FFF;
-margin-top:15px;
-}
-table thead{
-    background-color:#990000;
-    color:#FFF;
-}
-table tfoot tr td {
-color: #FFFFCC;
-}
-table tfoot tr td:hover{
-    background-color:#FFFFCC;
-    color:#CC3333;
-}
-
-th{
-   padding:10px;
-}
-
-ol, ul {
-color:#FFF;
-
-}
-*************************/
 h1.icon{
     background-image:url("Smultron.png");
     background-repeat:no-repeat;
