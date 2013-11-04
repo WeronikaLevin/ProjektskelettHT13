@@ -132,11 +132,7 @@ input.button{
 }
 
 
-.right{
-margin: 2px;
-  border: 1px solid #FFF;
-  height: 75%;
-  width: 75%;
-  float: right;
-  text-align: center;
+img{
+    display: none;
+}
 }
