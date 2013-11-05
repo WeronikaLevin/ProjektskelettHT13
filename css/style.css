@@ -123,21 +123,21 @@
 /*********TYPOGRAFI***************/
 
 p{
-     color:#938892;
+     color:#000;
     font-size:1em;
 }
 p a:link{
-    color:#938892;
+    color:#000;
     text-decoration:underline;
      text-decoration:bold;
 }
 a:link{
     color:#DC143C;
-    text-decoration:none;
+    text-decoration:underline;
    
 }
 a:visited{
-    color:#F58A3D;
+    color:#858585;
 }
 
 a:hover{
